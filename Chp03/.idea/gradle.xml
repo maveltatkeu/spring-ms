@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -13,6 +14,7 @@
             <option value="$PROJECT_DIR$/microservices/product-service" />
             <option value="$PROJECT_DIR$/microservices/recommendation-service" />
             <option value="$PROJECT_DIR$/microservices/review-service" />
+            <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
       </GradleProjectSettings>
